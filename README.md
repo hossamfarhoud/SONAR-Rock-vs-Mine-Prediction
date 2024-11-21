@@ -55,4 +55,5 @@ Use the trained Random Forest model to predict whether new sonar data correspond
 -Feature Importance Barplot to highlight influential features.
 -ROC Curve to evaluate model performance based on thresholds
 
-📂 GitHub Repository: Check out the full project and code on GitHub: https://github.com/hossamfarhoud/Diabetes-Classification-using-Logistic-Regression?tab=readme-ov-file#diabetes-classification-using-logistic-regression
+📂 GitHub Repository: Check out the full project and code on GitHub: [https://github.com/hossamfarhoud/Diabetes-Classification-using-Logistic-Regression?tab=readme-ov-file#diabetes-classification-using-logistic-regression
+](https://github.com/hossamfarhoud/SONAR-Rock-vs-Mine-Prediction/blob/main/README.md#sonar-rock-vs-mine-prediction)
